@@ -54,14 +54,14 @@
 // }
 
 // query selector
-var header = document.querySelector("#main-header")
-header.style.borderBottom = "solid 4px black"
+// var header = document.querySelector("#main-header")
+// header.style.borderBottom = "solid 4px black"
 
-var input = document.querySelector("input")
-input.value = "Hello World"
+// var input = document.querySelector("input")
+// input.value = "Hello World"
 
-var item = document.querySelector(".list-group-item") // only gets the first one
-item.style.color = "red"
+// var item = document.querySelector(".list-group-item") // only gets the first one
+// item.style.color = "red"
 
-var lastItem = document.querySelector(".list-group-item:last-child")
-lastItem.style.color = "blue"
+// var lastItem = document.querySelector(".list-group-item:last-child")
+// lastItem.style.color = "blue"
